@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot using venom",
+  "main": "whatsapp_bot.js",
+  "scripts": {
+    "start": "node whatsapp_bot.js"
+  },
+  "dependencies": {
+    "venom": "^x.x.x", // Add your venom version here
+    "qrcode-terminal": "^x.x.x" // Add your qrcode-terminal version here
+  }
+}
